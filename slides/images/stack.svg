@@ -1,0 +1,1688 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2415"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   sodipodi:docname="stack.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs2417">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective2423" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="256"
+     inkscape:cx="306.90802"
+     inkscape:cy="348.36872"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1256"
+     inkscape:window-height="776"
+     inkscape:window-x="0"
+     inkscape:window-y="0" />
+  <metadata
+     id="metadata2420">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4337"
+       width="73.765625"
+       height="220.28252"
+       x="305.85815"
+       y="484.62717" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4225"
+       width="73.765625"
+       height="220.28252"
+       x="181.12109"
+       y="483.48593" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.43647268;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2383"
+       width="70.953094"
+       height="14.063324"
+       x="96.361183"
+       y="165.34842"
+       inkscape:export-filename="/home/matias/projects/pycon/slides/images/pyc.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-size:6.23187542px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       x="84.110352"
+       y="223.3849"
+       id="text2385"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/matias/projects/pycon/slides/images/pyc.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       transform="scale(1.2859655,0.7776258)"><tspan
+         sodipodi:role="line"
+         id="tspan2387"
+         x="84.110352"
+         y="223.3849"
+         style="font-size:6.23187542px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans">''.join</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.43647268;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2428"
+       width="70.953094"
+       height="14.063324"
+       x="96.361183"
+       y="151.06982"
+       inkscape:export-filename="/home/matias/projects/pycon/slides/images/pyc.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-size:6.23187542px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       x="84.110352"
+       y="205.02313"
+       id="text2430"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/matias/projects/pycon/slides/images/pyc.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       transform="scale(1.2859655,0.7776258)"><tspan
+         sodipodi:role="line"
+         id="tspan2432"
+         x="84.110352"
+         y="205.02313"
+         style="font-size:6.23187542px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans">map</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.43647268;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2440"
+       width="70.953094"
+       height="14.063324"
+       x="96.361183"
+       y="179.61165"
+       inkscape:export-filename="/home/matias/projects/pycon/slides/images/pyc.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-size:6.23187542px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       x="84.110352"
+       y="241.72691"
+       id="text2442"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/matias/projects/pycon/slides/images/pyc.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       transform="scale(1.2859655,0.7776258)"><tspan
+         sodipodi:role="line"
+         id="tspan2444"
+         x="84.110352"
+         y="241.72691"
+         style="font-size:6.23187542px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans">inputSerial</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.43647268;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2446"
+       width="70.953094"
+       height="14.063324"
+       x="96.361183"
+       y="136.79123"
+       inkscape:export-filename="/home/matias/projects/pycon/slides/images/pyc.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-size:6.23187542px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       x="84.06987"
+       y="186.66135"
+       id="text2448"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/matias/projects/pycon/slides/images/pyc.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       transform="scale(1.2859655,0.7776258)"><tspan
+         sodipodi:role="line"
+         id="tspan2450"
+         x="84.06987"
+         y="186.66135"
+         style="font-size:6.23187542px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans">lambda</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.43647268;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2452"
+       width="70.953094"
+       height="14.063324"
+       x="96.30912"
+       y="95.035065"
+       inkscape:export-filename="/home/matias/projects/pycon/slides/images/pyc.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-size:6.23187542px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       x="84.06987"
+       y="132.96434"
+       id="text2454"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/matias/projects/pycon/slides/images/pyc.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       transform="scale(1.2859655,0.7776258)"><tspan
+         sodipodi:role="line"
+         id="tspan2456"
+         x="84.06987"
+         y="132.96434"
+         style="font-size:6.23187542px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans">241</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.43647268;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2458"
+       width="70.953094"
+       height="14.063324"
+       x="96.30912"
+       y="80.756462"
+       inkscape:export-filename="/home/matias/projects/pycon/slides/images/pyc.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-size:6.23187542px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       x="84.06987"
+       y="114.60271"
+       id="text2460"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/matias/projects/pycon/slides/images/pyc.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       transform="scale(1.2859655,0.7776258)"><tspan
+         sodipodi:role="line"
+         id="tspan2462"
+         x="84.06987"
+         y="114.60271"
+         style="font-size:6.23187542px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans">230</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.43647268;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2464"
+       width="70.953094"
+       height="14.063324"
+       x="96.30912"
+       y="109.09732"
+       inkscape:export-filename="/home/matias/projects/pycon/slides/images/pyc.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-size:6.23187542px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       x="84.06987"
+       y="151.04802"
+       id="text2466"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/matias/projects/pycon/slides/images/pyc.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       transform="scale(1.2859655,0.7776258)"><tspan
+         sodipodi:role="line"
+         id="tspan2468"
+         x="84.06987"
+         y="151.04802"
+         style="font-size:6.23187542px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans">245</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.43647268;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2470"
+       width="70.953094"
+       height="14.063324"
+       x="96.30912"
+       y="122.72688"
+       inkscape:export-filename="/home/matias/projects/pycon/slides/images/pyc.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-size:6.23187542px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       x="84.06987"
+       y="168.57516"
+       id="text2472"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/matias/projects/pycon/slides/images/pyc.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       transform="scale(1.2859655,0.7776258)"><tspan
+         sodipodi:role="line"
+         id="tspan2474"
+         x="84.06987"
+         y="168.57516"
+         style="font-size:6.23187542px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans">225</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.43647268;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2476"
+       width="70.953094"
+       height="14.063324"
+       x="96.30912"
+       y="66.477928"
+       inkscape:export-filename="/home/matias/projects/pycon/slides/images/pyc.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-size:6.23187542px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       x="84.029388"
+       y="96.240875"
+       id="text2478"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/matias/projects/pycon/slides/images/pyc.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       transform="scale(1.2859655,0.7776258)"><tspan
+         sodipodi:role="line"
+         id="tspan2480"
+         x="84.029388"
+         y="96.240875"
+         style="font-size:6.23187542px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans">215</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.43647268;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2482"
+       width="70.953094"
+       height="14.063324"
+       x="96.309166"
+       y="38.006577"
+       inkscape:export-filename="/home/matias/projects/pycon/slides/images/pyc.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-size:6.23187542px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       x="84.069901"
+       y="59.627583"
+       id="text2484"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/matias/projects/pycon/slides/images/pyc.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       transform="scale(1.2859655,0.7776258)"><tspan
+         sodipodi:role="line"
+         id="tspan2486"
+         x="84.069901"
+         y="59.627583"
+         style="font-size:6.23187542px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans">202</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.43647268;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2488"
+       width="70.953094"
+       height="14.063324"
+       x="96.309166"
+       y="23.72797"
+       inkscape:export-filename="/home/matias/projects/pycon/slides/images/pyc.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-size:6.23187542px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       x="84.069901"
+       y="41.26585"
+       id="text2490"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/matias/projects/pycon/slides/images/pyc.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       transform="scale(1.2859655,0.7776258)"><tspan
+         sodipodi:role="line"
+         id="tspan2492"
+         x="84.069901"
+         y="41.26585"
+         style="font-size:6.23187542px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans">200</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.43647268;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2494"
+       width="70.953094"
+       height="14.063324"
+       x="96.309166"
+       y="52.068829"
+       inkscape:export-filename="/home/matias/projects/pycon/slides/images/pyc.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-size:6.23187542px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       x="84.069901"
+       y="77.711243"
+       id="text2496"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/matias/projects/pycon/slides/images/pyc.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       transform="scale(1.2859655,0.7776258)"><tspan
+         sodipodi:role="line"
+         id="tspan2498"
+         x="84.069901"
+         y="77.711243"
+         style="font-size:6.23187542px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans">161</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.43647268;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2506"
+       width="70.953094"
+       height="14.063324"
+       x="177.83517"
+       y="165.00914"
+       inkscape:export-filename="/home/matias/projects/pycon/slides/images/pyc.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-size:6.23187542px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       x="147.46661"
+       y="222.94855"
+       id="text2508"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/matias/projects/pycon/slides/images/pyc.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       transform="scale(1.2859655,0.7776258)"><tspan
+         sodipodi:role="line"
+         id="tspan2510"
+         x="147.46661"
+         y="222.94855"
+         style="font-size:6.23187542px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans">''.join</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.43647268;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2512"
+       width="70.953094"
+       height="14.063324"
+       x="177.83517"
+       y="150.73055"
+       inkscape:export-filename="/home/matias/projects/pycon/slides/images/pyc.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-size:6.23187542px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       x="147.46661"
+       y="204.58678"
+       id="text2514"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/matias/projects/pycon/slides/images/pyc.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       transform="scale(1.2859655,0.7776258)"><tspan
+         sodipodi:role="line"
+         id="tspan2516"
+         x="147.46661"
+         y="204.58678"
+         style="font-size:6.23187542px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans">map</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.43647268;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2524"
+       width="70.953094"
+       height="14.063324"
+       x="177.83517"
+       y="179.27237"
+       inkscape:export-filename="/home/matias/projects/pycon/slides/images/pyc.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-size:6.23187542px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       x="147.46661"
+       y="241.29059"
+       id="text2526"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/matias/projects/pycon/slides/images/pyc.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       transform="scale(1.2859655,0.7776258)"><tspan
+         sodipodi:role="line"
+         id="tspan2528"
+         x="147.46661"
+         y="241.29059"
+         style="font-size:6.23187542px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans">inputSerial</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.43647268;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2530"
+       width="70.953094"
+       height="14.063324"
+       x="177.83517"
+       y="136.45195"
+       inkscape:export-filename="/home/matias/projects/pycon/slides/images/pyc.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-size:6.23187542px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       x="147.42613"
+       y="186.22499"
+       id="text2532"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/matias/projects/pycon/slides/images/pyc.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       transform="scale(1.2859655,0.7776258)"><tspan
+         sodipodi:role="line"
+         id="tspan2534"
+         x="147.42613"
+         y="186.22499"
+         style="font-size:6.23187542px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans">lambda</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.43647268;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2554"
+       width="70.953094"
+       height="14.063324"
+       x="177.78311"
+       y="122.38758"
+       inkscape:export-filename="/home/matias/projects/pycon/slides/images/pyc.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-size:6.23187542px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       x="137.7058"
+       y="164.00534"
+       id="text2556"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/matias/projects/pycon/slides/images/pyc.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       transform="scale(1.2859655,0.7776258)"><tspan
+         sodipodi:role="line"
+         x="137.7058"
+         y="164.00534"
+         style="font-size:6.23187542px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+         id="tspan2590">[200,202,161,215,</tspan><tspan
+         sodipodi:role="line"
+         x="137.7058"
+         y="171.79518"
+         style="font-size:6.23187542px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+         id="tspan2592">230,241,245,225]</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.43647268;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2600"
+       width="70.953094"
+       height="14.063324"
+       x="261.83408"
+       y="164.5811"
+       inkscape:export-filename="/home/matias/projects/pycon/slides/images/pyc.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-size:6.23187542px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       x="212.78632"
+       y="222.3981"
+       id="text2602"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/matias/projects/pycon/slides/images/pyc.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       transform="scale(1.2859655,0.7776258)"><tspan
+         sodipodi:role="line"
+         id="tspan2604"
+         x="212.78632"
+         y="222.3981"
+         style="font-size:6.23187542px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans">''.join</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.43647268;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2606"
+       width="70.953094"
+       height="14.063324"
+       x="261.83408"
+       y="150.30251"
+       inkscape:export-filename="/home/matias/projects/pycon/slides/images/pyc.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-size:6.23187542px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       x="203.3437"
+       y="204.03633"
+       id="text2608"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/matias/projects/pycon/slides/images/pyc.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       transform="scale(1.2859655,0.7776258)"><tspan
+         sodipodi:role="line"
+         id="tspan2610"
+         x="203.3437"
+         y="204.03633"
+         style="font-size:6.23187542px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans">map(lambda, list)</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.43647268;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2618"
+       width="70.953094"
+       height="14.063324"
+       x="261.83408"
+       y="178.84433"
+       inkscape:export-filename="/home/matias/projects/pycon/slides/images/pyc.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-size:6.23187542px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       x="212.78632"
+       y="240.74014"
+       id="text2620"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/matias/projects/pycon/slides/images/pyc.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       transform="scale(1.2859655,0.7776258)"><tspan
+         sodipodi:role="line"
+         id="tspan2622"
+         x="212.78632"
+         y="240.74014"
+         style="font-size:6.23187542px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans">inputSerial</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.43647268;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2638"
+       width="70.953094"
+       height="14.063324"
+       x="343.80917"
+       y="163.6239"
+       inkscape:export-filename="/home/matias/projects/pycon/slides/images/pyc.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-size:6.23187542px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       x="276.53226"
+       y="221.16716"
+       id="text2640"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/matias/projects/pycon/slides/images/pyc.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       transform="scale(1.2859655,0.7776258)"><tspan
+         sodipodi:role="line"
+         id="tspan2642"
+         x="276.53226"
+         y="221.16716"
+         style="font-size:6.23187542px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans">''.join(map)</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.43647268;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2656"
+       width="70.953094"
+       height="14.063324"
+       x="343.80917"
+       y="177.88713"
+       inkscape:export-filename="/home/matias/projects/pycon/slides/images/pyc.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-size:6.23187542px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       x="276.53226"
+       y="239.50922"
+       id="text2658"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/matias/projects/pycon/slides/images/pyc.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       transform="scale(1.2859655,0.7776258)"><tspan
+         sodipodi:role="line"
+         id="tspan2660"
+         x="276.53226"
+         y="239.50922"
+         style="font-size:6.23187542px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans">inputSerial</tspan></text>
+    <g
+       id="g4299">
+      <rect
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/home/bn/matiasb/stack-1.png"
+         y="685"
+         x="181.62"
+         height="18.270578"
+         width="72.780418"
+         id="rect3709"
+         style="fill:#dcdcdc;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/home/bn/matiasb/stack-1.png"
+         sodipodi:linespacing="125%"
+         id="text4220"
+         y="697.44586"
+         x="185.57857"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+         xml:space="preserve"><tspan
+           y="697.44586"
+           x="185.57857"
+           id="tspan4222"
+           sodipodi:role="line">inputSerial</tspan></text>
+      <rect
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/home/bn/matiasb/stack-1.png"
+         y="666.73114"
+         x="181.62602"
+         height="18.270578"
+         width="72.780418"
+         id="rect4224"
+         style="fill:#dcdcdc;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/home/bn/matiasb/stack-1.png"
+         sodipodi:linespacing="125%"
+         id="text4226"
+         y="679.177"
+         x="201.93518"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+         xml:space="preserve"><tspan
+           y="679.177"
+           x="201.93518"
+           id="tspan4228"
+           sodipodi:role="line">''.join</tspan></text>
+      <rect
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/home/bn/matiasb/stack-1.png"
+         y="648.4574"
+         x="181.62312"
+         height="18.270578"
+         width="72.780418"
+         id="rect4314"
+         style="fill:#dcdcdc;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/home/bn/matiasb/stack-1.png"
+         sodipodi:linespacing="125%"
+         id="text4316"
+         y="659.70502"
+         x="204.4606"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+         xml:space="preserve"><tspan
+           y="659.70502"
+           x="204.4606"
+           id="tspan4318"
+           sodipodi:role="line">map</tspan></text>
+      <rect
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/home/bn/matiasb/stack-1.png"
+         y="630.18298"
+         x="181.6181"
+         height="18.270578"
+         width="72.780418"
+         id="rect4320"
+         style="fill:#dcdcdc;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/home/bn/matiasb/stack-1.png"
+         sodipodi:linespacing="125%"
+         id="text4322"
+         y="643.79193"
+         x="195.50246"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+         xml:space="preserve"><tspan
+           y="643.79193"
+           x="195.50246"
+           id="tspan4324"
+           sodipodi:role="line">lambda</tspan></text>
+      <rect
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/home/bn/matiasb/stack-1.png"
+         y="611.91443"
+         x="181.61954"
+         height="18.270578"
+         width="72.780418"
+         id="rect2504"
+         style="fill:#00ad00;fill-opacity:0.39215686999999999;stroke:#00ad00;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/home/bn/matiasb/stack-1.png"
+         sodipodi:linespacing="125%"
+         id="text2506"
+         y="625.41791"
+         x="206.6367"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+         xml:space="preserve"><tspan
+           y="625.41791"
+           x="206.6367"
+           id="tspan2508"
+           sodipodi:role="line">225</tspan></text>
+      <rect
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/home/bn/matiasb/stack-1.png"
+         y="593.63873"
+         x="181.61667"
+         height="18.270578"
+         width="72.780418"
+         id="rect2540"
+         style="fill:#00ad00;fill-opacity:0.39215686999999999;stroke:#00ad00;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/home/bn/matiasb/stack-1.png"
+         sodipodi:linespacing="125%"
+         id="text2542"
+         y="607.14221"
+         x="206.63383"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+         xml:space="preserve"><tspan
+           y="607.14221"
+           x="206.63383"
+           id="tspan2544"
+           sodipodi:role="line">245</tspan></text>
+      <rect
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/home/bn/matiasb/stack-1.png"
+         y="575.36432"
+         x="181.61165"
+         height="18.270578"
+         width="72.780418"
+         id="rect2546"
+         style="fill:#00ad00;fill-opacity:0.39215686999999999;stroke:#00ad00;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/home/bn/matiasb/stack-1.png"
+         sodipodi:linespacing="125%"
+         id="text2548"
+         y="588.95276"
+         x="206.65811"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+         xml:space="preserve"><tspan
+           y="588.95276"
+           x="206.65811"
+           id="tspan2550"
+           sodipodi:role="line">241</tspan></text>
+      <rect
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/home/bn/matiasb/stack-1.png"
+         y="557.09058"
+         x="181.60875"
+         height="18.270578"
+         width="72.780418"
+         id="rect2552"
+         style="fill:#00ad00;fill-opacity:0.39215686999999999;stroke:#00ad00;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/home/bn/matiasb/stack-1.png"
+         sodipodi:linespacing="125%"
+         id="text2554"
+         y="570.59406"
+         x="206.49994"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+         xml:space="preserve"><tspan
+           y="570.59406"
+           x="206.49994"
+           id="tspan2556"
+           sodipodi:role="line">230</tspan></text>
+      <rect
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/home/bn/matiasb/stack-1.png"
+         y="538.81616"
+         x="181.60925"
+         height="18.270578"
+         width="72.780418"
+         id="rect2558"
+         style="fill:#00ad00;fill-opacity:0.39215686999999999;stroke:#00ad00;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/home/bn/matiasb/stack-1.png"
+         sodipodi:linespacing="125%"
+         id="text2560"
+         y="552.31964"
+         x="206.62642"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+         xml:space="preserve"><tspan
+           y="552.31964"
+           x="206.62642"
+           id="tspan2562"
+           sodipodi:role="line">215</tspan></text>
+      <rect
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/home/bn/matiasb/stack-1.png"
+         y="520.54205"
+         x="181.60516"
+         height="18.270578"
+         width="72.780418"
+         id="rect2564"
+         style="fill:#00ad00;fill-opacity:0.39215686999999999;stroke:#00ad00;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/home/bn/matiasb/stack-1.png"
+         sodipodi:linespacing="125%"
+         id="text2566"
+         y="534.04553"
+         x="206.4319"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+         xml:space="preserve"><tspan
+           y="534.04553"
+           x="206.4319"
+           id="tspan2568"
+           sodipodi:role="line">161</tspan></text>
+      <rect
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/home/bn/matiasb/stack-1.png"
+         y="502.26575"
+         x="181.60078"
+         height="18.270578"
+         width="72.780418"
+         id="rect2570"
+         style="fill:#00ad00;fill-opacity:0.39215686999999999;stroke:#00ad00;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/home/bn/matiasb/stack-1.png"
+         sodipodi:linespacing="125%"
+         id="text2572"
+         y="515.76923"
+         x="206.69412"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+         xml:space="preserve"><tspan
+           y="515.76923"
+           x="206.69412"
+           id="tspan2574"
+           sodipodi:role="line">202</tspan></text>
+      <rect
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/home/bn/matiasb/stack-1.png"
+         y="483.99142"
+         x="181.60222"
+         height="18.270578"
+         width="72.780418"
+         id="rect2576"
+         style="fill:#00ad00;fill-opacity:0.39215686999999999;stroke:#00ad00;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/home/bn/matiasb/stack-1.png"
+         sodipodi:linespacing="125%"
+         id="text2578"
+         y="497.49487"
+         x="206.49341"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+         xml:space="preserve"><tspan
+           y="497.49487"
+           x="206.49341"
+           id="tspan2580"
+           sodipodi:role="line">200</tspan></text>
+    </g>
+    <g
+       id="g3334"
+       inkscape:export-filename="/home/bn/matiasb/stack-0.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <rect
+         y="682.38892"
+         x="46.347878"
+         height="18.270578"
+         width="72.780418"
+         id="rect3262"
+         style="fill:#dcdcdc;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3264"
+         y="694.83478"
+         x="50.30645"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+         xml:space="preserve"><tspan
+           y="694.83478"
+           x="50.30645"
+           id="tspan3266"
+           sodipodi:role="line">inputSerial</tspan></text>
+      <rect
+         y="664.12006"
+         x="46.353905"
+         height="18.270578"
+         width="72.780418"
+         id="rect3268"
+         style="fill:#dcdcdc;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3270"
+         y="676.56592"
+         x="66.663063"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+         xml:space="preserve"><tspan
+           y="676.56592"
+           x="66.663063"
+           id="tspan3272"
+           sodipodi:role="line">''.join</tspan></text>
+      <rect
+         y="645.84631"
+         x="46.351006"
+         height="18.270578"
+         width="72.780418"
+         id="rect3274"
+         style="fill:#dcdcdc;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3276"
+         y="657.09393"
+         x="69.188484"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+         xml:space="preserve"><tspan
+           y="657.09393"
+           x="69.188484"
+           id="tspan3278"
+           sodipodi:role="line">map</tspan></text>
+      <rect
+         y="627.5719"
+         x="46.345985"
+         height="18.270578"
+         width="72.780418"
+         id="rect3280"
+         style="fill:#dcdcdc;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3282"
+         y="641.18085"
+         x="60.230339"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+         xml:space="preserve"><tspan
+           y="641.18085"
+           x="60.230339"
+           id="tspan3284"
+           sodipodi:role="line">lambda</tspan></text>
+      <rect
+         y="609.30334"
+         x="46.34742"
+         height="18.270578"
+         width="72.780418"
+         id="rect3286"
+         style="fill:#dcdcdc;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3288"
+         y="622.80682"
+         x="71.364586"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+         xml:space="preserve"><tspan
+           y="622.80682"
+           x="71.364586"
+           id="tspan3290"
+           sodipodi:role="line">225</tspan></text>
+      <rect
+         y="591.02759"
+         x="46.344551"
+         height="18.270578"
+         width="72.780418"
+         id="rect3292"
+         style="fill:#dcdcdc;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3294"
+         y="604.53113"
+         x="71.361717"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+         xml:space="preserve"><tspan
+           y="604.53113"
+           x="71.361717"
+           id="tspan3296"
+           sodipodi:role="line">245</tspan></text>
+      <rect
+         y="572.75317"
+         x="46.339531"
+         height="18.270578"
+         width="72.780418"
+         id="rect3298"
+         style="fill:#dcdcdc;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3300"
+         y="586.34167"
+         x="71.385994"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+         xml:space="preserve"><tspan
+           y="586.34167"
+           x="71.385994"
+           id="tspan3302"
+           sodipodi:role="line">241</tspan></text>
+      <rect
+         y="554.47949"
+         x="46.336632"
+         height="18.270578"
+         width="72.780418"
+         id="rect3304"
+         style="fill:#dcdcdc;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3306"
+         y="567.98291"
+         x="71.227821"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+         xml:space="preserve"><tspan
+           y="567.98291"
+           x="71.227821"
+           id="tspan3308"
+           sodipodi:role="line">230</tspan></text>
+      <rect
+         y="536.20508"
+         x="46.337135"
+         height="18.270578"
+         width="72.780418"
+         id="rect3310"
+         style="fill:#dcdcdc;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3312"
+         y="549.7085"
+         x="71.354301"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+         xml:space="preserve"><tspan
+           y="549.7085"
+           x="71.354301"
+           id="tspan3314"
+           sodipodi:role="line">215</tspan></text>
+      <rect
+         y="517.93091"
+         x="46.333046"
+         height="18.270578"
+         width="72.780418"
+         id="rect3316"
+         style="fill:#dcdcdc;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3318"
+         y="531.43445"
+         x="71.159782"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+         xml:space="preserve"><tspan
+           y="531.43445"
+           x="71.159782"
+           id="tspan3320"
+           sodipodi:role="line">161</tspan></text>
+      <rect
+         y="499.65463"
+         x="46.328667"
+         height="18.270578"
+         width="72.780418"
+         id="rect3322"
+         style="fill:#dcdcdc;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3324"
+         y="513.15808"
+         x="71.422005"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+         xml:space="preserve"><tspan
+           y="513.15808"
+           x="71.422005"
+           id="tspan3326"
+           sodipodi:role="line">202</tspan></text>
+      <rect
+         y="481.38031"
+         x="46.330101"
+         height="18.270578"
+         width="72.780418"
+         id="rect3328"
+         style="fill:#dcdcdc;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3330"
+         y="494.88376"
+         x="71.221291"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+         xml:space="preserve"><tspan
+           y="494.88376"
+           x="71.221291"
+           id="tspan3332"
+           sodipodi:role="line">200</tspan></text>
+    </g>
+    <g
+       id="g4227">
+      <rect
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/home/bn/matiasb/stack-2.png"
+         y="686.13971"
+         x="306.35858"
+         height="18.270578"
+         width="72.780418"
+         id="rect3372"
+         style="fill:#dcdcdc;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/home/bn/matiasb/stack-2.png"
+         sodipodi:linespacing="125%"
+         id="text3374"
+         y="698.58557"
+         x="310.31717"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+         xml:space="preserve"><tspan
+           y="698.58557"
+           x="310.31717"
+           id="tspan3376"
+           sodipodi:role="line">inputSerial</tspan></text>
+      <rect
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/home/bn/matiasb/stack-2.png"
+         y="667.87085"
+         x="306.36462"
+         height="18.270578"
+         width="72.780418"
+         id="rect3378"
+         style="fill:#dcdcdc;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/home/bn/matiasb/stack-2.png"
+         sodipodi:linespacing="125%"
+         id="text3380"
+         y="680.31671"
+         x="326.67377"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+         xml:space="preserve"><tspan
+           y="680.31671"
+           x="326.67377"
+           id="tspan3382"
+           sodipodi:role="line">''.join</tspan></text>
+      <rect
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/home/bn/matiasb/stack-2.png"
+         y="649.59711"
+         x="306.36172"
+         height="18.270578"
+         width="72.780418"
+         id="rect3384"
+         style="fill:#dcdcdc;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/home/bn/matiasb/stack-2.png"
+         sodipodi:linespacing="125%"
+         id="text3386"
+         y="660.84473"
+         x="329.19919"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+         xml:space="preserve"><tspan
+           y="660.84473"
+           x="329.19919"
+           id="tspan3388"
+           sodipodi:role="line">map</tspan></text>
+      <rect
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/home/bn/matiasb/stack-2.png"
+         y="631.32269"
+         x="306.35669"
+         height="18.270578"
+         width="72.780418"
+         id="rect3390"
+         style="fill:#dcdcdc;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/home/bn/matiasb/stack-2.png"
+         sodipodi:linespacing="125%"
+         id="text3392"
+         y="644.93164"
+         x="320.24106"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+         xml:space="preserve"><tspan
+           y="644.93164"
+           x="320.24106"
+           id="tspan3394"
+           sodipodi:role="line">lambda</tspan></text>
+      <rect
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/home/bn/matiasb/stack-2.png"
+         y="613.05414"
+         x="306.35812"
+         height="18.270578"
+         width="72.780418"
+         id="rect3396"
+         style="fill:#dcdcdc;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/home/bn/matiasb/stack-2.png"
+         sodipodi:linespacing="125%"
+         id="text3398"
+         y="625.3291"
+         x="310.19217"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+         xml:space="preserve"><tspan
+           y="625.3291"
+           x="310.19217"
+           id="tspan3400"
+           sodipodi:role="line">[200, ...,245]</tspan></text>
+    </g>
+    <g
+       id="g4244">
+      <rect
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/home/bn/matiasb/stack-3.png"
+         y="683.76965"
+         x="415.60773"
+         height="18.270578"
+         width="72.780418"
+         id="rect4054"
+         style="fill:#dcdcdc;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/home/bn/matiasb/stack-3.png"
+         sodipodi:linespacing="125%"
+         id="text4056"
+         y="696.21552"
+         x="419.56631"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+         xml:space="preserve"><tspan
+           y="696.21552"
+           x="419.56631"
+           id="tspan4058"
+           sodipodi:role="line">inputSerial</tspan></text>
+      <rect
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/home/bn/matiasb/stack-3.png"
+         y="665.50079"
+         x="415.61377"
+         height="18.270578"
+         width="72.780418"
+         id="rect4060"
+         style="fill:#dcdcdc;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/home/bn/matiasb/stack-3.png"
+         sodipodi:linespacing="125%"
+         id="text4062"
+         y="677.94666"
+         x="435.92291"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+         xml:space="preserve"><tspan
+           y="677.94666"
+           x="435.92291"
+           id="tspan4064"
+           sodipodi:role="line">''.join</tspan></text>
+      <rect
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/home/bn/matiasb/stack-3.png"
+         y="647.22705"
+         x="415.61087"
+         height="18.270578"
+         width="72.780418"
+         id="rect4066"
+         style="fill:#00ad00;fill-opacity:0.39215687;stroke:#00ad00;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/home/bn/matiasb/stack-3.png"
+         sodipodi:linespacing="125%"
+         id="text4068"
+         y="658.47467"
+         x="438.44833"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+         xml:space="preserve"><tspan
+           y="658.47467"
+           x="438.44833"
+           id="tspan4070"
+           sodipodi:role="line">map</tspan></text>
+      <rect
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/home/bn/matiasb/stack-3.png"
+         y="628.95264"
+         x="415.60583"
+         height="18.270578"
+         width="72.780418"
+         id="rect4072"
+         style="fill:#00ad00;fill-opacity:0.39215687;stroke:#00ad00;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/home/bn/matiasb/stack-3.png"
+         sodipodi:linespacing="125%"
+         id="text4074"
+         y="642.56158"
+         x="429.4902"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+         xml:space="preserve"><tspan
+           y="642.56158"
+           x="429.4902"
+           id="tspan4076"
+           sodipodi:role="line">lambda</tspan></text>
+      <rect
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/home/bn/matiasb/stack-3.png"
+         y="610.68408"
+         x="415.60727"
+         height="18.270578"
+         width="72.780418"
+         id="rect4078"
+         style="fill:#00ad00;fill-opacity:0.39215687;stroke:#00ad00;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/home/bn/matiasb/stack-3.png"
+         sodipodi:linespacing="125%"
+         id="text4080"
+         y="622.95905"
+         x="419.44131"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+         xml:space="preserve"><tspan
+           y="622.95905"
+           x="419.44131"
+           id="tspan4082"
+           sodipodi:role="line">[200, ...,245]</tspan></text>
+    </g>
+    <g
+       id="g4261">
+      <rect
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/home/bn/matiasb/stack-4.png"
+         y="685.76965"
+         x="525.60773"
+         height="18.270578"
+         width="72.780418"
+         id="rect4084"
+         style="fill:#dcdcdc;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/home/bn/matiasb/stack-4.png"
+         sodipodi:linespacing="125%"
+         id="text4086"
+         y="698.21552"
+         x="529.56628"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+         xml:space="preserve"><tspan
+           y="698.21552"
+           x="529.56628"
+           id="tspan4088"
+           sodipodi:role="line">inputSerial</tspan></text>
+      <rect
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/home/bn/matiasb/stack-4.png"
+         y="667.50079"
+         x="525.61377"
+         height="18.270578"
+         width="72.780418"
+         id="rect4090"
+         style="fill:#dcdcdc;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/home/bn/matiasb/stack-4.png"
+         sodipodi:linespacing="125%"
+         id="text4092"
+         y="679.94666"
+         x="545.92291"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+         xml:space="preserve"><tspan
+           y="679.94666"
+           x="545.92291"
+           id="tspan4094"
+           sodipodi:role="line">''.join</tspan></text>
+      <rect
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/home/bn/matiasb/stack-4.png"
+         y="649.22705"
+         x="525.61115"
+         height="18.270578"
+         width="72.780418"
+         id="rect4108"
+         style="fill:#dcdcdc;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/home/bn/matiasb/stack-4.png"
+         sodipodi:linespacing="125%"
+         id="text4110"
+         y="660.5694"
+         x="526.55408"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+         xml:space="preserve"><tspan
+           y="660.5694"
+           x="526.55408"
+           id="tspan4112"
+           sodipodi:role="line">map(lambda, list)</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="595.91425"
+       y="623.14838"
+       id="text4114"><tspan
+         sodipodi:role="line"
+         id="tspan4118" /></text>
+    <g
+       id="g4272">
+      <rect
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/home/bn/matiasb/stack-5.png"
+         y="683.49817"
+         x="636.10675"
+         height="18.270578"
+         width="72.780418"
+         id="rect4174"
+         style="fill:#dcdcdc;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/home/bn/matiasb/stack-5.png"
+         sodipodi:linespacing="125%"
+         id="text4176"
+         y="695.94403"
+         x="640.06531"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+         xml:space="preserve"><tspan
+           y="695.94403"
+           x="640.06531"
+           id="tspan4178"
+           sodipodi:role="line">inputSerial</tspan></text>
+      <rect
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/home/bn/matiasb/stack-5.png"
+         y="665.22931"
+         x="636.11279"
+         height="18.270578"
+         width="72.780418"
+         id="rect4180"
+         style="fill:#00ad00;fill-opacity:0.39215686999999999;stroke:#00ad00;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/home/bn/matiasb/stack-5.png"
+         sodipodi:linespacing="125%"
+         id="text4182"
+         y="677.67517"
+         x="656.42194"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+         xml:space="preserve"><tspan
+           y="677.67517"
+           x="656.42194"
+           id="tspan4184"
+           sodipodi:role="line">''.join</tspan></text>
+      <rect
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/home/bn/matiasb/stack-5.png"
+         y="646.95557"
+         x="636.11017"
+         height="18.270578"
+         width="72.780418"
+         id="rect4186"
+         style="fill:#00ad00;fill-opacity:0.39215686999999999;stroke:#00ad00;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/home/bn/matiasb/stack-5.png"
+         sodipodi:linespacing="125%"
+         id="text4188"
+         y="658.29791"
+         x="637.0531"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+         xml:space="preserve"><tspan
+           y="658.29791"
+           x="637.0531"
+           id="tspan4190"
+           sodipodi:role="line">map(lambda, list)</tspan></text>
+    </g>
+    <g
+       id="g4283">
+      <rect
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/home/bn/matiasb/stack-6.png"
+         y="683.49817"
+         x="742.10675"
+         height="18.270578"
+         width="72.780418"
+         id="rect4192"
+         style="fill:#dcdcdc;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/home/bn/matiasb/stack-6.png"
+         sodipodi:linespacing="125%"
+         id="text4194"
+         y="695.94403"
+         x="746.06531"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+         xml:space="preserve"><tspan
+           y="695.94403"
+           x="746.06531"
+           id="tspan4196"
+           sodipodi:role="line">inputSerial</tspan></text>
+      <rect
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/home/bn/matiasb/stack-6.png"
+         y="665.22931"
+         x="742.11279"
+         height="18.270578"
+         width="72.780418"
+         id="rect4198"
+         style="fill:#dcdcdc;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/home/bn/matiasb/stack-6.png"
+         sodipodi:linespacing="125%"
+         id="text4200"
+         y="677.67517"
+         x="744.40143"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+         xml:space="preserve"><tspan
+           y="677.67517"
+           x="744.40143"
+           id="tspan4202"
+           sodipodi:role="line">''.join(map)</tspan></text>
+    </g>
+    <g
+       id="g4291">
+      <rect
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/home/bn/matiasb/stack-7.png"
+         y="681.86133"
+         x="849.10675"
+         height="18.270578"
+         width="72.780418"
+         id="rect4210"
+         style="fill:#00ad00;fill-opacity:0.39215687;stroke:#00ad00;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/home/bn/matiasb/stack-7.png"
+         sodipodi:linespacing="125%"
+         id="text4212"
+         y="694.30719"
+         x="853.06531"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+         xml:space="preserve"><tspan
+           y="694.30719"
+           x="853.06531"
+           id="tspan4214"
+           sodipodi:role="line">inputSerial</tspan></text>
+      <rect
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/home/bn/matiasb/stack-7.png"
+         y="663.59247"
+         x="849.11279"
+         height="18.270578"
+         width="72.780418"
+         id="rect4216"
+         style="fill:#00ad00;fill-opacity:0.39215687;stroke:#00ad00;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/home/bn/matiasb/stack-7.png"
+         sodipodi:linespacing="125%"
+         id="text4218"
+         y="676.03833"
+         x="851.40143"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+         xml:space="preserve"><tspan
+           y="676.03833"
+           x="851.40143"
+           id="tspan4220"
+           sodipodi:role="line">''.join(map)</tspan></text>
+    </g>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4339"
+       width="73.765625"
+       height="220.28252"
+       x="406.11719"
+       y="459.22092" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4341"
+       width="73.765625"
+       height="220.28252"
+       x="516.11719"
+       y="495.22092" />
+  </g>
+</svg>

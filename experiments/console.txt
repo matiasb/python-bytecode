@@ -1,0 +1,58 @@
+# Hello world!
+
+import marshal
+f = open("hello.pyc", "rb")
+magic = f.read(4)
+timestamp = f.read(4)
+code = marshal.load(f)
+code
+
+
+# Ejemplo compile con globals
+
+co = compile('print a', '<string>', 'single')
+exec(co, {'a':'hello!'})
+
+
+# Ejemplo de bytecodeAssembler
+
+from peak.util.assembler import Code
+c = Code()
+c.LOAD_CONST('hello world!')
+c.PRINT_ITEM()
+c.PRINT_NEWLINE()
+c.LOAD_CONST(None)
+c.RETURN_VALUE()
+
+exec(c.code())
+
+
+# Ejemplo con byteplay
+
+import marshal
+
+f = open('crkm0x1.pyc', 'rb')
+magic = f.read(4)
+moddate = f.read(4)
+code = marshal.load(f)
+
+
+import byteplay
+
+bp = byteplay.Code.from_code(code)
+bp.code
+
+byteplay.printcodelist(bp.code)
+
+f = bp.code[1][1]
+byteplay.printcodelist(f.code)
+f.code[40] = (byteplay.PRINT_ITEM, None)
+f.code[42] = (byteplay.JUMP_ABSOLUTE, f.code[41][1])
+f.code[41] = (byteplay.PRINT_NEWLINE, None)
+cf = f.to_code()
+exec(cf)
+
+
+# Using unpy2exe
+python unpy2exe.py crkm0x1.exe
+

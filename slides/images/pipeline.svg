@@ -1,0 +1,708 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   sodipodi:docname="pipeline.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Lend"
+       style="overflow:visible;">
+      <path
+         id="path3213"
+         style="font-size:12.0;fill-rule:evenodd;stroke-width:0.62500000;stroke-linejoin:round;"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(1.1) rotate(180) translate(1,0)" />
+    </marker>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="1069.5437"
+     inkscape:cy="671.1218"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1254"
+     inkscape:window-height="745"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3442"
+       width="516.97125"
+       height="50.312504"
+       x="14.265716"
+       y="93.087669"
+       inkscape:export-filename="/home/bn/matiasb/pipe-1.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3440"
+       width="516.97125"
+       height="50.312504"
+       x="15.654665"
+       y="177.17271"
+       inkscape:export-filename="/home/bn/matiasb/pipe-2.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3438"
+       width="516.97125"
+       height="50.312504"
+       x="15.002865"
+       y="275.90363"
+       inkscape:export-filename="/home/bn/matiasb/pipe-3.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3436"
+       width="516.97125"
+       height="50.312504"
+       x="13.660714"
+       y="388.90234"
+       inkscape:export-filename="/home/bn/matiasb/pipe-4.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <rect
+       style="fill:#00ad00;fill-opacity:0.39215687;stroke:#00ad00;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2385"
+       width="85.30172"
+       height="49.30172"
+       x="14.849139"
+       y="93.711319"
+       inkscape:export-filename="/home/bn/matiasb/pipe-1.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       x="57.486328"
+       y="115.22449"
+       id="text2387"
+       sodipodi:linespacing="100%"
+       inkscape:export-filename="/home/bn/matiasb/pipe-1.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan2389"
+         x="57.486328"
+         y="115.22449">ejecutable</tspan><tspan
+         sodipodi:role="line"
+         x="57.486328"
+         y="129.22449"
+         id="tspan2391">py2exe</tspan></text>
+    <rect
+       style="fill:#dcdcdc;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3182"
+       width="85.30172"
+       height="49.30172"
+       x="16.278931"
+       y="177.85295"
+       inkscape:export-filename="/home/bn/matiasb/pipe-2.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       x="58.916138"
+       y="199.36612"
+       id="text3184"
+       sodipodi:linespacing="100%"
+       inkscape:export-filename="/home/bn/matiasb/pipe-2.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan3186"
+         x="58.916138"
+         y="199.36612">ejecutable</tspan><tspan
+         sodipodi:role="line"
+         x="58.916138"
+         y="213.36612"
+         id="tspan3188">py2exe</tspan></text>
+    <rect
+       style="fill:#00ad00;fill-opacity:0.39215686999999999;stroke:#00ad00;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3190"
+       width="85.30172"
+       height="49.30172"
+       x="159.85037"
+       y="177.85295"
+       inkscape:export-filename="/home/bn/matiasb/pipe-2.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       x="202.46024"
+       y="199.36612"
+       id="text3192"
+       sodipodi:linespacing="100%"
+       inkscape:export-filename="/home/bn/matiasb/pipe-2.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan3194"
+         x="202.46024"
+         y="199.36612">archivo</tspan><tspan
+         sodipodi:role="line"
+         x="202.46024"
+         y="213.36612"
+         id="tspan3196">.pyc</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker-end:url(#Arrow2Lend);stroke-opacity:1"
+       d="M 102.28696,203.64668 L 159.42982,204.36096"
+       id="path3214"
+       inkscape:export-filename="/home/bn/matiasb/pipe-2.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#7d00ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       x="103.1441"
+       y="198.36096"
+       id="text3216"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/bn/matiasb/pipe-2.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan3218"
+         x="103.1441"
+         y="198.36096">unpy2exe</tspan></text>
+    <rect
+       style="fill:#dcdcdc;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3232"
+       width="85.30172"
+       height="49.30172"
+       x="14.136093"
+       y="389.42438"
+       inkscape:export-filename="/home/bn/matiasb/pipe-4.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       x="56.77327"
+       y="410.93756"
+       id="text3234"
+       sodipodi:linespacing="100%"
+       inkscape:export-filename="/home/bn/matiasb/pipe-4.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan3236"
+         x="56.77327"
+         y="410.93756">ejecutable</tspan><tspan
+         sodipodi:role="line"
+         x="56.77327"
+         y="424.93756"
+         id="tspan3238">py2exe</tspan></text>
+    <rect
+       style="fill:#dcdcdc;fill-opacity:0.8627451;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3240"
+       width="85.30172"
+       height="49.30172"
+       x="157.70752"
+       y="389.42438"
+       inkscape:export-filename="/home/bn/matiasb/pipe-4.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       x="200.31738"
+       y="410.93756"
+       id="text3242"
+       sodipodi:linespacing="100%"
+       inkscape:export-filename="/home/bn/matiasb/pipe-4.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan3244"
+         x="200.31738"
+         y="410.93756">archivo</tspan><tspan
+         sodipodi:role="line"
+         x="200.31738"
+         y="424.93756"
+         id="tspan3246">.pyc</tspan></text>
+    <rect
+       style="fill:#00ad00;fill-opacity:0.39215687;stroke:#00ad00;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3248"
+       width="86.011116"
+       height="49.582539"
+       x="444.13849"
+       y="389.14111"
+       inkscape:export-filename="/home/bn/matiasb/pipe-4.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       x="487.10989"
+       y="411.07495"
+       id="text3250"
+       sodipodi:linespacing="100%"
+       inkscape:export-filename="/home/bn/matiasb/pipe-4.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan3252"
+         x="487.10989"
+         y="411.07495">código</tspan><tspan
+         sodipodi:role="line"
+         x="487.10989"
+         y="425.07495"
+         id="tspan3254">python</tspan></text>
+    <rect
+       style="fill:#dcdcdc;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3256"
+       width="86.011116"
+       height="49.582539"
+       x="301.99567"
+       y="389.14111"
+       inkscape:export-filename="/home/bn/matiasb/pipe-4.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       x="344.78589"
+       y="410.79468"
+       id="text3258"
+       sodipodi:linespacing="100%"
+       inkscape:export-filename="/home/bn/matiasb/pipe-4.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan3260"
+         x="344.78589"
+         y="410.79468">code</tspan><tspan
+         sodipodi:role="line"
+         x="344.78589"
+         y="424.79468"
+         id="tspan3262">object</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker-end:url(#Arrow2Lend);stroke-opacity:1"
+       d="M 100.1441,415.2181 L 157.28696,415.93238"
+       id="path3264"
+       inkscape:connector-type="polyline"
+       inkscape:export-filename="/home/bn/matiasb/pipe-4.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       x="101.00124"
+       y="410.93237"
+       id="text3266"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/bn/matiasb/pipe-4.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan3268"
+         x="101.00124"
+         y="410.93237">unpy2exe</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       x="246.67786"
+       y="411.64053"
+       id="text3270"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/bn/matiasb/pipe-4.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan3272"
+         x="246.67786"
+         y="411.64053">marshal</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#7d00ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       x="396.10645"
+       y="411.64056"
+       id="text3274"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/bn/matiasb/pipe-4.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan3276"
+         x="396.10645"
+         y="411.64056">UnPyc</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker-end:url(#Arrow2Lend);stroke-opacity:1"
+       d="M 243.87288,415.21805 L 301.01574,415.93233"
+       id="path3278"
+       inkscape:connector-type="polyline"
+       inkscape:export-filename="/home/bn/matiasb/pipe-4.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker-end:url(#Arrow2Lend);stroke-opacity:1"
+       d="M 387.44431,415.21805 L 444.58717,415.93233"
+       id="path3280"
+       inkscape:connector-type="polyline"
+       inkscape:export-filename="/home/bn/matiasb/pipe-4.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <rect
+       style="fill:#dcdcdc;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3282"
+       width="85.30172"
+       height="49.30172"
+       x="15.564651"
+       y="276.42438"
+       inkscape:export-filename="/home/bn/matiasb/pipe-3.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       x="58.201843"
+       y="297.93756"
+       id="text3284"
+       sodipodi:linespacing="100%"
+       inkscape:export-filename="/home/bn/matiasb/pipe-3.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan3286"
+         x="58.201843"
+         y="297.93756">ejecutable</tspan><tspan
+         sodipodi:role="line"
+         x="58.201843"
+         y="311.93756"
+         id="tspan3288">py2exe</tspan></text>
+    <rect
+       style="fill:#dcdcdc;fill-opacity:0.8627451;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3290"
+       width="85.30172"
+       height="49.30172"
+       x="159.13609"
+       y="276.42438"
+       inkscape:export-filename="/home/bn/matiasb/pipe-3.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       x="201.74594"
+       y="297.93756"
+       id="text3292"
+       sodipodi:linespacing="100%"
+       inkscape:export-filename="/home/bn/matiasb/pipe-3.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan3294"
+         x="201.74594"
+         y="297.93756">archivo</tspan><tspan
+         sodipodi:role="line"
+         x="201.74594"
+         y="311.93756"
+         id="tspan3296">.pyc</tspan></text>
+    <rect
+       style="fill:#00ad00;fill-opacity:0.39215687;stroke:#00ad00;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3306"
+       width="86.011116"
+       height="49.582539"
+       x="303.42422"
+       y="276.14111"
+       inkscape:export-filename="/home/bn/matiasb/pipe-3.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       x="346.21445"
+       y="297.79468"
+       id="text3308"
+       sodipodi:linespacing="100%"
+       inkscape:export-filename="/home/bn/matiasb/pipe-3.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan3310"
+         x="346.21445"
+         y="297.79468">code</tspan><tspan
+         sodipodi:role="line"
+         x="346.21445"
+         y="311.79468"
+         id="tspan3312">object</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker-end:url(#Arrow2Lend);stroke-opacity:1"
+       d="M 101.57267,302.2181 L 158.71553,302.93238"
+       id="path3314"
+       inkscape:connector-type="polyline"
+       inkscape:export-filename="/home/bn/matiasb/pipe-3.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       x="102.42981"
+       y="297.9324"
+       id="text3316"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/bn/matiasb/pipe-3.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan3318"
+         x="102.42981"
+         y="297.9324">unpy2exe</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#7d00ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       x="248.10643"
+       y="298.64053"
+       id="text3320"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/bn/matiasb/pipe-3.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan3322"
+         x="248.10643"
+         y="298.64053">marshal</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker-end:url(#Arrow2Lend);stroke-opacity:1"
+       d="M 245.30145,302.21805 L 302.44431,302.93233"
+       id="path3328"
+       inkscape:connector-type="polyline"
+       inkscape:export-filename="/home/bn/matiasb/pipe-3.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <rect
+       style="fill:#dcdcdc;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3359"
+       width="85.30172"
+       height="49.30172"
+       x="9.1360779"
+       y="-62.147041"
+       inkscape:export-filename="/home/matias/projects/pycon/slides/images/pipe.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       x="51.773277"
+       y="-40.633881"
+       id="text3361"
+       sodipodi:linespacing="100%"
+       inkscape:export-filename="/home/matias/projects/pycon/slides/images/pipe.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan3363"
+         x="51.773277"
+         y="-40.633881">ejecutable</tspan><tspan
+         sodipodi:role="line"
+         x="51.773277"
+         y="-26.633881"
+         id="tspan3365">py2exe</tspan></text>
+    <rect
+       style="fill:#dcdcdc;fill-opacity:0.8627451;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3367"
+       width="85.30172"
+       height="49.30172"
+       x="152.70752"
+       y="-62.147041"
+       inkscape:export-filename="/home/matias/projects/pycon/slides/images/pipe.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       x="195.31738"
+       y="-40.633881"
+       id="text3369"
+       sodipodi:linespacing="100%"
+       inkscape:export-filename="/home/matias/projects/pycon/slides/images/pipe.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan3371"
+         x="195.31738"
+         y="-40.633881">archivo</tspan><tspan
+         sodipodi:role="line"
+         x="195.31738"
+         y="-26.633881"
+         id="tspan3373">.pyc</tspan></text>
+    <rect
+       style="fill:#dcdcdc;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3375"
+       width="86.011116"
+       height="49.582539"
+       x="439.13849"
+       y="-62.430313"
+       inkscape:export-filename="/home/matias/projects/pycon/slides/images/pipe.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       x="482.10986"
+       y="-40.49646"
+       id="text3377"
+       sodipodi:linespacing="100%"
+       inkscape:export-filename="/home/matias/projects/pycon/slides/images/pipe.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan3379"
+         x="482.10986"
+         y="-40.49646">código</tspan><tspan
+         sodipodi:role="line"
+         x="482.10986"
+         y="-26.49646"
+         id="tspan3381">python</tspan></text>
+    <rect
+       style="fill:#dcdcdc;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3383"
+       width="86.011116"
+       height="49.582539"
+       x="296.99567"
+       y="-62.430313"
+       inkscape:export-filename="/home/matias/projects/pycon/slides/images/pipe.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       x="339.78589"
+       y="-40.776733"
+       id="text3385"
+       sodipodi:linespacing="100%"
+       inkscape:export-filename="/home/matias/projects/pycon/slides/images/pipe.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan3387"
+         x="339.78589"
+         y="-40.776733">code</tspan><tspan
+         sodipodi:role="line"
+         x="339.78589"
+         y="-26.776733"
+         id="tspan3389">object</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker-end:url(#Arrow2Lend);stroke-opacity:1"
+       d="M 95.1441,-36.35332 L 152.28696,-35.63904"
+       id="path3391"
+       inkscape:connector-type="polyline"
+       inkscape:export-filename="/home/matias/projects/pycon/slides/images/pipe.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       x="96.001221"
+       y="-40.639038"
+       id="text3393"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/matias/projects/pycon/slides/images/pipe.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan3395"
+         x="96.001221"
+         y="-40.639038">unpy2exe</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       x="241.67786"
+       y="-39.930893"
+       id="text3397"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/matias/projects/pycon/slides/images/pipe.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan3399"
+         x="241.67786"
+         y="-39.930893">marshal</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       x="391.10645"
+       y="-39.930878"
+       id="text3401"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/matias/projects/pycon/slides/images/pipe.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan3403"
+         x="391.10645"
+         y="-39.930878">UnPyc</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker-end:url(#Arrow2Lend);stroke-opacity:1"
+       d="M 238.87288,-36.35337 L 296.01574,-35.63909"
+       id="path3405"
+       inkscape:connector-type="polyline"
+       inkscape:export-filename="/home/matias/projects/pycon/slides/images/pipe.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker-end:url(#Arrow2Lend);stroke-opacity:1"
+       d="M 382.44431,-36.35337 L 439.58717,-35.63909"
+       id="path3407"
+       inkscape:connector-type="polyline"
+       inkscape:export-filename="/home/matias/projects/pycon/slides/images/pipe.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+  </g>
+</svg>

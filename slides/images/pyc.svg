@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   sodipodi:docname="drawing.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="165.47714"
+     inkscape:cy="980.36606"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="745"
+     inkscape:window-x="0"
+     inkscape:window-y="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.56030989;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2383"
+       width="70.829346"
+       height="23.216061"
+       x="64.290184"
+       y="49.987499"
+       inkscape:export-filename="/home/matias/projects/pycon/slides/images/pyc.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-size:8px;font-style:normal;font-weight:normal;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr"
+       x="70"
+       y="65.21933"
+       id="text2385"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/matias/projects/pycon/slides/images/pyc.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan2387"
+         x="70"
+         y="65.21933"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr;text-anchor:start;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans">Magic Number</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2389"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Bitstream Vera Sans;font-style:normal;font-weight:normal;font-size:40px"><flowRegion
+         id="flowRegion2391"><rect
+           id="rect2393"
+           width="7.8571429"
+           height="45"
+           x="102.85714"
+           y="98.790756" /></flowRegion><flowPara
+         id="flowPara2395"></flowPara></flowRoot>    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.56030989;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3167"
+       width="70.829346"
+       height="23.216061"
+       x="64.290184"
+       y="73.229568"
+       inkscape:export-filename="/home/matias/projects/pycon/slides/images/pyc.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       x="77.218994"
+       y="86.770454"
+       id="text3169"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/matias/projects/pycon/slides/images/pyc.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan3171"
+         x="77.218994"
+         y="86.770454"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans">Timestamp</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.92881888;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3173"
+       width="70.520996"
+       height="64.075027"
+       x="64.444351"
+       y="96.513062"
+       inkscape:export-filename="/home/matias/projects/pycon/slides/images/pyc.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       x="99.32"
+       y="115.83118"
+       id="text3175"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/matias/projects/pycon/slides/images/pyc.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan3177"
+         x="99.32"
+         y="115.83118"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans">Marshalled</tspan><tspan
+         sodipodi:role="line"
+         x="99.32"
+         y="125.83118"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+         id="tspan3179">Code Object</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.70468229px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 134.89147,62.265029 C 150.62045,62.265029 150.62045,62.265029 150.62045,62.265029 L 150.62045,62.265029 L 150.62045,62.265029"
+       id="path3205"
+       inkscape:export-filename="/home/matias/projects/pycon/slides/images/pyc.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       x="152.48625"
+       y="51.892757"
+       id="text3207"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/matias/projects/pycon/slides/images/pyc.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan3209"
+         x="152.48625"
+         y="51.892757">D1 F2 0D 0A   &lt;- 2.6</tspan><tspan
+         sodipodi:role="line"
+         x="152.48625"
+         y="61.892757"
+         id="tspan3211">B3 F2 0D 0A   &lt;- 2.5</tspan><tspan
+         sodipodi:role="line"
+         x="152.48625"
+         y="71.892761"
+         id="tspan3213">6D F2 0D 0A   &lt;- 2.4</tspan><tspan
+         sodipodi:role="line"
+         x="152.48625"
+         y="81.892761"
+         id="tspan3217">...</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.70468229px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 134.93218,92.291943 C 150.66115,92.291943 150.66115,92.291943 150.66115,92.291943 L 150.66115,92.291943 L 150.66115,92.291943"
+       id="path3229"
+       inkscape:export-filename="/home/matias/projects/pycon/slides/images/pyc.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       x="152.51767"
+       y="94.175148"
+       id="text3231"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/matias/projects/pycon/slides/images/pyc.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         x="152.51767"
+         y="94.175148"
+         id="tspan3239">pack('L', today)</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.70468229px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 134.65712,127.06996 C 150.3861,127.06996 150.3861,127.06996 150.3861,127.06996 L 150.3861,127.06996 L 150.3861,127.06996"
+       id="path3259"
+       inkscape:export-filename="/home/matias/projects/pycon/slides/images/pyc.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       x="151.47647"
+       y="128.7238"
+       id="text3261"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/matias/projects/pycon/slides/images/pyc.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         x="151.47647"
+         y="128.7238"
+         id="tspan3269">marshal.dump(code_object)</tspan></text>
+  </g>
+</svg>
